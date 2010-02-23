@@ -1,13 +1,14 @@
+
 ## TODO ############################################################################
   
-- BUG: spaces and then ï£¿+tab no torna!
+- BUG: spaces and then ð+tab no torna!
 - BUG: minimize troublesome, try blocking fadeout
-- BUG: ï£¿+Q MUST quite regardless
+- BUG: ð+Q MUST quite regardless
 - TEST: Chinese: hebrew arabic
 - BUG: 2 screens + disconnect 2nd screen >> remap properly to new screen size
 - BUG: parse UTF-8 make sure we suck everything in
 - prepare dialogs to get them spellchecked and proofed
-- standard box size in ï£¿ menu
+- standard box size in ð menu
 
 ## HALF DONE ############################################################################
 
@@ -16,11 +17,11 @@
 
 ## NOT SURE ##########################################################################
 
-- Command to minimize (ï£¿ + m)
+- Command to minimize (ð + m)
 - bug: japanese no sound keystrokes
 - try soft edges on bottom and top of box
 - TEST: PPC
-- Test: Weird sound card? Apogee
+- Test: Weird sound card? Apogee 
 
 ## DONE ############################################################################
 
@@ -32,11 +33,11 @@
 - FEATURE: if OmmWriter detects it crashed last time it was used during launch time, it will present the "backup file" instead of an empty canvas.
 - BUG: fixed situation where user was trying to "open a file" || "new document" || "quit", was asked to save its file first, 
  said yes, and then when asked where to save its, canceled. OmmWriter would quit regardless. (without saving!) 
-- FEATURE: New document command (ï£¿ + n)
+- FEATURE: New document command (ð + n)
 - FEATURE: add +1 type size
 - delayed word count / dont do word count if interface is hidden, do it on show interface
 - BUG: typing speed is slow, look into optimizing "word count" and [string len] for every keystroke
-- FEATURE: save file (ï£¿+s) on screen feedback!
+- FEATURE: save file (ð+s) on screen feedback!
 - BUG: scroll bar; grab where you grab, no jump on click
 - Feature: when deleting chars in script font, the queue is aware of it (so your typos wont be "played back")
 - FEATURE: black out other screens and add pref plist to disable (blackoutSecondaryScreens bool)
