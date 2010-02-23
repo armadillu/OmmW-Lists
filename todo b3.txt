@@ -6,7 +6,6 @@
 - BUG: +Q MUST quite regardless
 - TEST: Chinese: hebrew arabic
 - BUG: 2 screens + disconnect 2nd screen >> remap properly to new screen size
-- BUG: parse UTF-8 make sure we suck everything in
 - prepare dialogs to get them spellchecked and proofed
 - standard box size in  menu
 - Check memory usage, 100+ mb for a text editor is too much!
@@ -24,6 +23,7 @@
 - try soft edges on bottom and top of box
 - TEST: PPC
 - Test: Weird sound card? Apogee 
+- BUG: parse UTF-8 make sure we suck everything in >> test on 10.5?
 
 ## DONE ############################################################################
 
