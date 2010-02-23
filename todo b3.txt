@@ -5,7 +5,6 @@
 - BUG: minimize troublesome, try blocking fadeout
 - BUG: +Q MUST quite regardless
 - TEST: Chinese: hebrew arabic
-- BUG: 2 screens + disconnect 2nd screen >> remap properly to new screen size
 - prepare dialogs to get them spellchecked and proofed
 - Check memory usage, 100+ mb for a text editor is too much!
 
@@ -26,6 +25,7 @@
 
 ## DONE ############################################################################
 
+- BUG: 2 screens + disconnect 2nd screen >> remap properly to new screen size
 - FEATURE: standard box size in  menu
 - FEATURE: PDF Export 
 - FEATURE: much more smoother drag/resize box operation
