@@ -28,7 +28,7 @@
 ## DONE ############################################################################
 
 - FEATURE: PDF Export 
-- FEATURE: much smoother drag/resize box operation
+- FEATURE: much more smoother drag/resize box operation
 - FEATURE: interlineado mas alto para la serif: 1.3. Implement different lineheight for each font style!
 - salt pagina al reach final - mirar is pot ser menys salt >> Enable smooth scrolling!
 - BUG: replace file at save as!
