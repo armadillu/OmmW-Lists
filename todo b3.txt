@@ -7,7 +7,6 @@
 - TEST: Chinese: hebrew arabic
 - BUG: 2 screens + disconnect 2nd screen >> remap properly to new screen size
 - prepare dialogs to get them spellchecked and proofed
-- standard box size in  menu
 - Check memory usage, 100+ mb for a text editor is too much!
 
 ## HALF DONE ############################################################################
@@ -23,10 +22,11 @@
 - try soft edges on bottom and top of box
 - TEST: PPC
 - Test: Weird sound card? Apogee 
-- BUG: parse UTF-8 make sure we suck everything in >> test on 10.5?
+- BUG: parse UTF-8 make sure we suck everything in >> test on OSX 10.5?
 
 ## DONE ############################################################################
 
+- FEATURE: standard box size in  menu
 - FEATURE: PDF Export 
 - FEATURE: much more smoother drag/resize box operation
 - FEATURE: interlineado mas alto para la serif: 1.3. Implement different lineheight for each font style!
