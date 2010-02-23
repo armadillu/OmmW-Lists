@@ -1,0 +1,54 @@
+
+## TODO ############################################################################
+  
+- BUG: spaces and then ð+tab no torna!
+- BUG: minimize troublesome, try blocking fadeout
+- BUG: ð+Q MUST quite regardless
+- TEST: Chinese: hebrew arabic
+- BUG: 2 screens + disconnect 2nd screen >> remap properly to new screen size
+- FEATURE: PDF Export with bg image
+- BUG: parse UTF-8 make sure we suck everything in
+- prepare dialogs to get them spellchecked and proofed
+- standard box size in ð menu
+
+## HALF DONE ############################################################################
+
+- Replace save/open panels for sheets?
+- save animation should match the one that happens when pressing button (button not jumping, but fading color instead)
+
+## NOT SURE ##########################################################################
+
+- Command to minimize (ð + m)
+- bug: japanese no sound keystrokes
+- try soft edges on bottom and top of box
+- TEST: PPC
+- Test: Weird sound card? Apogee
+
+## DONE ############################################################################
+
+- FEATURE: much smoother drag/resize box operation
+- FEATURE: interlineado mas alto para la serif: 1.3. Implement different lineheight for each font style!
+- salt pagina al reach final - mirar is pot ser menys salt >> Enable smooth scrolling!
+- BUG: replace file at save as!
+- FEATURE: if OmmWriter detects it crashed last time it was used during launch time, it will present the "backup file" instead of an empty canvas.
+- BUG: fixed situation where user was trying to "open a file" || "new document" || "quit", was asked to save its file first, 
+ said yes, and then when asked where to save its, canceled. OmmWriter would quit regardless. (without saving!) 
+- FEATURE: New document command (ð + n)
+- FEATURE: add +1 type size
+- delayed word count / dont do word count if interface is hidden, do it on show interface
+- BUG: typing speed is slow, look into optimizing "word count" and [string len] for every keystroke
+- FEATURE: save file (ð+s) on screen feedback!
+- BUG: scroll bar; grab where you grab, no jump on click
+- Feature: when deleting chars in script font, the queue is aware of it (so your typos wont be "played back")
+- FEATURE: black out other screens and add pref plist to disable (blackoutSecondaryScreens bool)
+- FEATURE: music fades out / stops when minimized
+- BUG: ommwriter window level is too high. Try lowering to allow japanese input, make sure spellcheck window works
+- FEATURE: cursor as wide as letter to help read where cursor is
+- FEATURE: try full-on text block for insertion port
+- BUG: open 2+ files at once from finder
+- BUG: edit file, save: on question say "don't save" and it will ask where to save
+- BUG: Follow Apple Standard Guidelines on dialogs
+- BUG: OmmWriter with 'W'
+- FEATURE: "phantom car" animation for script font: when typing, u can see a "ghost" of it
+- BUG: test writeRoom with spaces, see how it does it, it does it! fullscreen mode
+- FEATURE: fall back to CoreAudio for music playback (was heavier quicktime b4) by switching to mp3 instead of m4a
