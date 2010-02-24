@@ -6,6 +6,8 @@
 - BUG: +Q MUST quit regardless
 - prepare dialogs to get them spellchecked and proofed
 - BUG: Compiling on 10.6 SDK creates problems (CAKeyframeAnimationExtra)
+- OmmFiles miss accents in M$ Word
+- 300+ Compiler warnings!
 
 ## HALF DONE #######################################################################
 
