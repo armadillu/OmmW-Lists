@@ -49,7 +49,7 @@
 - FEATURE: save file (+s) on screen feedback!
 - BUG: scroll bar; grab where you grab, no jump on click
 - FEATURE: when deleting chars in script font, the queue is aware of it (so your typos wont be "played back")
-- FEATURE: black out other screens and add pref plist to disable (blackoutSecondaryScreens bool)
+- FEATURE: black out other screens and add pref plist to disable (blackoutSecondaryScreens bool) >> improved performance with threading
 - FEATURE: music fades out / stops when minimized
 - BUG: ommwriter window level is too high. Try lowering to allow japanese input, make sure spellcheck panel works
 - FEATURE: cursor as wide as letter to help read where cursor is (try full block)
