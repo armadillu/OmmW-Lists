@@ -7,7 +7,7 @@
 - prepare dialogs to get them spellchecked and proofed
 - BUG: Compiling on 10.6 SDK creates problems (CAKeyframeAnimationExtra)
 - OmmFiles miss accents in M$ Word
-- 300+ Compiler warnings!
+- 600+ Compiler warnings!
 
 ## HALF DONE #######################################################################
 
