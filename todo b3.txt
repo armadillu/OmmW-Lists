@@ -4,7 +4,6 @@
 - BUG: spaces and then +tab no torna!
 - BUG: minimize troublesome, try blocking fadeout
 - BUG: +Q MUST quite regardless
-- TEST: Chinese: hebrew arabic
 - prepare dialogs to get them spellchecked and proofed
 - Check memory usage, 100+ mb for a text editor is too much!
 
@@ -17,18 +16,22 @@
 ## NOT SURE ########################################################################
 
 - Replace save/open panels for sheets?
-- bug: japanese no sound keystrokes
 - BUG: parse UTF-8 make sure we suck everything in >> test on OSX 10.5?
 
 ## NOT POSSIBLE ####################################################################
 
 - try soft edges on bottom and top of box
+- salt pagina al reach final - mirar is pot ser menys salt >> Enable smooth scrolling in system preferences!
+
+## TO QA ###########################################################################
+
+- TEST: Chinese: hebrew arabic.....
 - TEST: PPC
-- Test: Weird sound card? Apogee 
-- salt pagina al reach final - mirar is pot ser menys salt >> Enable smooth scrolling!
+- TEST: Weird sound card? Apogee 
 
 ## DONE ############################################################################
 
+- BUG: japanese no sound keystrokes until final char is inputted
 - BUG: 2+ screens & disconnect 2nd screen >> remap properly to new screen size
 - FEATURE: reset to standard box size in  menu
 - FEATURE: PDF Export 
