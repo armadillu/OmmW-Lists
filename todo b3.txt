@@ -3,9 +3,9 @@
   
 - BUG: spaces and then +tab no torna!
 - BUG: minimize troublesome, try blocking fadeout
-- BUG: +Q MUST quite regardless
+- BUG: +Q MUST quit regardless
 - prepare dialogs to get them spellchecked and proofed
-- Check memory usage, 100+ mb for a text editor is too much!
+- Check memory usage, 100+ mb for a text editor is too much! >> might be the music loops
 
 ## HALF DONE #######################################################################
 
@@ -16,7 +16,6 @@
 ## NOT SURE ########################################################################
 
 - Replace save/open panels for sheets?
-- BUG: parse UTF-8 make sure we suck everything in >> test on OSX 10.5?
 
 ## NOT POSSIBLE ####################################################################
 
@@ -28,6 +27,7 @@
 - TEST: Chinese: hebrew arabic.....
 - TEST: PPC
 - TEST: Weird sound card? Apogee 
+- BUG: parse UTF-8, macRoman, etc. make sure we suck everything in >> test on OSX 10.5? works fine on OSX 10.6
 
 ## DONE ############################################################################
 
