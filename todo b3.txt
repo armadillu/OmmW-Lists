@@ -20,7 +20,6 @@
 ## NOT POSSIBLE ####################################################################
 
 - try soft edges on bottom and top of box
-- salt pagina al reach final - mirar is pot ser menys salt >> Enable smooth scrolling in system preferences!
 
 ## TO QA ###########################################################################
 
@@ -31,6 +30,7 @@
 
 ## DONE ############################################################################
 
+- FEATURE: salt pagina al reach final - mirar is pot ser menys salt >> turned on Smooth Scrolling, helps a lot
 - BUG: japanese no sound keystrokes until final char is inputted
 - BUG: 2+ screens & disconnect 2nd screen >> remap properly to new screen size
 - FEATURE: reset to standard box size in  menu
