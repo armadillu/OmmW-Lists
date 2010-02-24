@@ -33,7 +33,7 @@
 ## DONE ############################################################################
 
 - 600+ Compiler warnings!
-- FEATURE: window level rises hwhen about to resign active to allow nice fade on top of everything else, back to rnoaml when done
+- FEATURE: window level rises when about to resign active to allow nice fade on top of everything else, back to rnoaml when done
 - FEATURE: salt pagina al reach final - mirar is pot ser menys salt >> turned on Smooth Scrolling, helps a lot
 - BUG: japanese no sound keystrokes until final char is inputted
 - BUG: 2+ screens & disconnect 2nd screen >> remap properly to new screen size
