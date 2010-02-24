@@ -5,6 +5,7 @@
 - BUG: minimize troublesome, try blocking fadeout
 - BUG: +Q MUST quit regardless
 - prepare dialogs to get them spellchecked and proofed
+- BUG: Compiling on 10.6 SDK creates problems (CAKeyframeAnimationExtra)
 
 ## HALF DONE #######################################################################
 
