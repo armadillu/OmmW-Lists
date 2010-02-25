@@ -1,16 +1,13 @@
 
 ## TODO ############################################################################
   
-- BUG: spaces and then +tab no torna!
 - BUG: minimize troublesome, try blocking fadeout
 - BUG: +Q MUST quit regardless
 - prepare dialogs to get them spellchecked and proofed
-- OmmFiles miss accents in M$ Word
 
 ## HALF DONE #######################################################################
 
 - Command to minimize ( + m) >> we minimize but stay in ommwriter?
-- BUG: SPACES, see how writeRoom it does it
 - save animation should match the one that happens when pressing button (button not jumping, but fading color instead)
 
 ## NOT SURE ########################################################################
@@ -31,9 +28,14 @@
 
 ## DONE ############################################################################
 
+- FEATURES: Export as RTF >> those can be read with MS Word (Word has trouble reading .txt)
+- BUG: Spaces support like writeroom
+- FEATURE: minimize turns on "normal" mode, so we get Dock and menubars when minimize. This way we can launch back ommwriter when minimized but in front.
+- Improvement: Windows actually close after fading out (less cpu usage when not using ommwriter)
+- FEATURE: Added "Show Window" on menus
 - 600+ Compiler warnings!
 - BUG: Compiling on 10.6 SDK creates problems (CAKeyframeAnimationExtra)
-- FEATURE: window level rises when about to resign active to allow nice fade on top of everything else, back to rnoaml when done
+- FEATURE: window level rises when about to resign active to allow nice fade on top of everything else, back to normal when done
 - FEATURE: salt pagina al reach final - mirar is pot ser menys salt >> turned on Smooth Scrolling, helps a lot
 - BUG: japanese no sound keystrokes until final char is inputted
 - BUG: 2+ screens & disconnect 2nd screen >> remap properly to new screen size
