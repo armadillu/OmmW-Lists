@@ -28,6 +28,7 @@
 
 ## DONE ############################################################################
 
+- BUG: in very large documents, scrollbar handle could become too tiny to grab. Given it a min size now (like osx)
 - CODE CLEANUP: OmmWriterController
 - BUG: +Q MUST quit regardless
 - FEATURE: Threaded Backup File saving
