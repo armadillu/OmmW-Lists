@@ -15,7 +15,7 @@
 
 ## NOT POSSIBLE ####################################################################
 
-- try soft edges on bottom and top of text box >> too much workm not worth it
+- try soft edges on bottom and top of text box >> too much work not worth it
 - Smaller memory usage, 104+ mb for a text editor is too much! >> might be the music loops? First beta used 109+ mb!
 
 ## TO QA ###########################################################################
