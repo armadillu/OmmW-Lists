@@ -1,8 +1,9 @@
 
 ## TODO ############################################################################
   
-- BUG: script animations layer limbo, seems to be when i resign while animating=
-- prepare dialogs to get them spellchecked and proofed
+- BUG: script animations layer limbo, seems to be when i resign while animating? hard to repdroduce
+- BUG: sometimes (very seldom) you can hear a sound type sound when launching the app. Dunno why!
+- Prepare dialogs to get them spellchecked and proofed
 
 ## HALF DONE #######################################################################
 
