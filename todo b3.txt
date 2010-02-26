@@ -1,6 +1,7 @@
 
 ## TODO ############################################################################
   
+- BUG: script animations layer limbo, seems to be when i resign while animating=
 - prepare dialogs to get them spellchecked and proofed
 
 ## HALF DONE #######################################################################
