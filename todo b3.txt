@@ -1,8 +1,6 @@
 
 ## TODO ############################################################################
   
-- BUG: minimize troublesome, try blocking fadeout
-- BUG: +Q MUST quit regardless
 - prepare dialogs to get them spellchecked and proofed
 
 ## HALF DONE #######################################################################
@@ -24,9 +22,11 @@
 - TEST: PPC
 - TEST: Weird sound card? Apogee 
 - BUG: parse UTF-8, macRoman, etc. make sure we suck everything in >> test on OSX 10.5? works fine on OSX 10.6
+- BUG: minimize troublesome, try blocking fadeout
 
 ## DONE ############################################################################
 
+- BUG: +Q MUST quit regardless
 - FEATURES: Export as RTF >> those can be read with MS Word (Word has trouble reading .txt)
 - BUG: Spaces support like writeroom
 - FEATURE: minimize turns on "normal" mode, so we get Dock and menubars when minimize. This way we can launch back ommwriter when minimized but in front.
