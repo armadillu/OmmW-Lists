@@ -28,6 +28,8 @@
 
 ## DONE ############################################################################
 
+- FEATURE: delay quit a bit to allow music to completelly fadeout
+- FEATURE: Grammar and Spell Check are marked diffrently now (Green and red, following apple standards)
 - BUG: in very large documents, scrollbar handle could become too tiny to grab. Given it a min size now (like osx)
 - CODE CLEANUP: OmmWriterController
 - BUG: +Q MUST quit regardless
@@ -37,7 +39,7 @@
 - FEATURE: minimize turns on "normal" mode, so we get Dock and menubars when minimize. This way we can launch back ommwriter when minimized but in front.
 - Improvement: Windows actually close after fading out (less cpu usage when not using ommwriter)
 - FEATURE: Added "Show Window" on menus
-- 600+ Compiler warnings!
+- 600+ Compiler warnings! clean code up!
 - BUG: Compiling on 10.6 SDK creates problems (CAKeyframeAnimationExtra)
 - FEATURE: window level rises when about to resign active to allow nice fade on top of everything else, back to normal when done
 - FEATURE: salt pagina al reach final - mirar is pot ser menys salt >> turned on Smooth Scrolling, helps a lot
