@@ -28,6 +28,7 @@
 
 ## DONE ############################################################################
 
+- CODE CLEANUP: OmmWriterController
 - BUG: +Q MUST quit regardless
 - FEATURE: Threaded Backup File saving
 - FEATURE: Export as RTF >> those can be read with MS Word (Word has trouble reading .txt)
