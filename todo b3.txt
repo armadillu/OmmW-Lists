@@ -30,10 +30,11 @@
 
 - FEATURE: delay quit a bit to allow music to completelly fadeout
 - FEATURE: Grammar and Spell Check are marked diffrently now (Green and red, following apple standards)
+- FEATURE: Tweaked animated font to use a non linear catch up curve, when very "late" types faster, when just  afew chars away slows down
 - BUG: in very large documents, scrollbar handle could become too tiny to grab. Given it a min size now (like osx)
-- CODE CLEANUP: OmmWriterController
+- CODE CLEANUP: OmmWriterController.m
 - BUG: +Q MUST quit regardless
-- FEATURE: Threaded Backup File saving
+- FEATURE: Threaded Backup File saving to avoid "hiccups"
 - FEATURE: Export as RTF >> those can be read with MS Word (Word has trouble reading .txt)
 - BUG: Spaces support like writeroom
 - FEATURE: minimize turns on "normal" mode, so we get Dock and menubars when minimize. This way we can launch back ommwriter when minimized but in front.
