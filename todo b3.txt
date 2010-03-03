@@ -1,10 +1,8 @@
 
 ## TODO ############################################################################
   
-- BUG: script animations layer limbo, seems to be when i resign while animating? hard to repdroduce
 - BUG: sometimes (very seldom) you can hear a sound type sound when launching the app. Dunno why!
 - Prepare dialogs to get them spellchecked and proofed
-- FEATURE: give error when using 10.4
 - Test on 10.5 machine; install 10.5 on an external hard drive to do some testing
 - Licensing: implement license check at start time and modify exposed interface accordingly
 
@@ -27,6 +25,8 @@
 
 ## TO QA ###########################################################################
 
+- FEATURE: give error when using 10.4
+- BUG: script animations layer limbo, seems to be when i resign while animating? hard to repdroduce
 - TEST: Chinese: hebrew arabic.....
 - TEST: PPC
 - TEST: Weird sound card? Apogee 
