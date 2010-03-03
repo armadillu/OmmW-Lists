@@ -6,7 +6,6 @@
 - Prepare dialogs to get them spellchecked and proofed
 - FEATURE: give error when using 10.4
 - Test on 10.5 machine; install 10.5 on an external hard drive to do some testing
-- Licensing: implement serial number generator class, and create external app to generate serial numbers.
 - Licensing: implement peristance license, prefs files.
 - Licensing: implement license check at start time and modify exposed interface accordingly
 - Licensing: implement a window where user can type in their code to enable paid features. 
@@ -36,6 +35,7 @@
 
 ## DONE ############################################################################
 
+- Licensing: implement serial number generator class, and create external app to generate serial numbers.
 - FEATURE: delay quit a bit to allow music to completelly fadeout
 - FEATURE: Grammar and Spell Check are marked diffrently now (Green and red, following apple standards)
 - FEATURE: Tweaked animated font to use a non linear catch up curve, when very "late" types faster, when just  afew chars away slows down
