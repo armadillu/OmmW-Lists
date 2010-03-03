@@ -59,6 +59,7 @@
 - FEATURE: window level rises when about to resign active to allow nice fade on top of everything else, back to normal when done
 - FEATURE: salt pagina al reach final - mirar is pot ser menys salt >> turned on Smooth Scrolling, helps a lot
 - BUG: japanese no sound keystrokes until final char is inputted
+- FEATURE: choosing a sound preset for keyboard gives a preview of that sound preset.
 - BUG: 2+ screens & disconnect 2nd screen >> remap properly to new screen size
 - FEATURE: reset to standard box size in  menu
 - FEATURE: PDF Export 
