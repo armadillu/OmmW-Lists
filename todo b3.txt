@@ -6,7 +6,6 @@
 - Prepare dialogs to get them spellchecked and proofed
 - FEATURE: give error when using 10.4
 - Test on 10.5 machine; install 10.5 on an external hard drive to do some testing
-- add a bitstream vera font (monospaced) with all the consequences (UI, settings, etc)
 - Licensing: implement license check at start time and modify exposed interface accordingly
 
 
@@ -37,6 +36,7 @@
 
 ## DONE ############################################################################
 
+- add a bitstream vera font (monospaced) with all the consequences (UI, settings, etc)
 - Licensing: implement peristance license, prefs files.
 - Licensing: implement a window where user can type in their code to enable paid features. 
 - Licensing: add menubar option to input license info
