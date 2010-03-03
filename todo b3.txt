@@ -36,6 +36,7 @@
 
 ## DONE ############################################################################
 
+- FEATURE: better background crossfade with no timers (just CA)
 - FEATURE: add a bitstream vera font (monospaced) with all the consequences (UI, settings, etc, find right sizes and line spacing)
 - Licensing: implement peristance license, prefs files.
 - Licensing: implement a window where user can type in their code to enable paid features. 
