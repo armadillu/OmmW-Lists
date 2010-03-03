@@ -12,18 +12,22 @@
 - Licensing: add button on splash window to allow user to input license info
 - Licensing: add menubar option to input license info
 
+
 ## HALF DONE #######################################################################
 
 - save animation should match the one that happens when pressing button (button not jumping, but fading color instead)
+
 
 ## NOT SURE ########################################################################
 
 - Replace save/open panels for sheets?
 
+
 ## NOT POSSIBLE ####################################################################
 
 - try soft edges on bottom and top of text box >> too much work not worth it
 - Smaller memory usage, 104+ mb for a text editor is too much! >> might be the music loops? First beta used 109+ mb!
+
 
 ## TO QA ###########################################################################
 
@@ -32,6 +36,7 @@
 - TEST: Weird sound card? Apogee 
 - BUG: parse UTF-8, macRoman, etc. make sure we suck everything in >> test on OSX 10.5? works fine on OSX 10.6
 - BUG: minimize troublesome, try blocking fadeout >> should be fixed
+
 
 ## DONE ############################################################################
 
