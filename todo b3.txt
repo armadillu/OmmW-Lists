@@ -4,6 +4,7 @@
 - BUG: sometimes (very seldom) you can hear a sound type sound when launching the app. Dunno why!
 - Prepare dialogs to get them spellchecked and proofed
 - Test on 10.5 machine; install 10.5 on an external hard drive to do some testing
+- BUG: OmmWriter deactivates and activates (fades out and fades in) around 5 seconds after saving a file. WEIRD!!!
 
 ## HALF DONE #######################################################################
 
