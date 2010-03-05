@@ -24,10 +24,10 @@
 - TEST: PPC
 - TEST: Weird sound card? Apogee 
 - BUG: parse UTF-8, macRoman, etc. make sure we suck everything in >> test on OSX 10.5? works fine on OSX 10.6
-- BUG: minimize troublesome, try blocking fadeout >> should be fixed
 
 ## DONE ############################################################################
 
+- BUG: minimize troublesome, fixed by blocking fadeout instead of NSTimers
 - Prepare dialogs to get them spellchecked and proofed
 - BUG: OmmWriter deactivates and activates (fades out and fades in) around 5 seconds after saving a file. >> was my internet-safe applescript on desktop, doh!
 - LICENSING: implement license check at start time and modify exposed interface accordingly
