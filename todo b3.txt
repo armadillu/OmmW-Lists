@@ -4,7 +4,6 @@
 - BUG: sometimes (very seldom) you can hear a sound type sound when launching the app. Dunno why!
 - Prepare dialogs to get them spellchecked and proofed
 - Test on 10.5 machine; install 10.5 on an external hard drive to do some testing
-- BUG: OmmWriter deactivates and activates (fades out and fades in) around 5 seconds after saving a file. WEIRD!!!
 
 ## HALF DONE #######################################################################
 
@@ -35,6 +34,7 @@
 
 ## DONE ############################################################################
 
+- BUG: OmmWriter deactivates and activates (fades out and fades in) around 5 seconds after saving a file. >> was my internet-safe applescript on desktop, doh!
 - LICENSING: implement license check at start time and modify exposed interface accordingly
 - FEATURE: better background crossfade with no timers (just CA)
 - FEATURE: add a bitstream vera font (monospaced) with all the consequences (UI, settings, etc, find right sizes and line spacing)
