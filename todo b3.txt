@@ -1,7 +1,7 @@
 ## TODO ############################################################################
   
 - BUG: sometimes (very seldom) you can hear a sound type sound when launching the app. Dunno why!
-- Test on 10.5 machine; install 10.5 on an external hard drive to do some testing
+- 10.5 BUG: some controller buttons dont show up sometimes! grrrr
 
 ## HALF DONE #######################################################################
 
@@ -29,6 +29,7 @@
 
 ## DONE ############################################################################
 
+- Test on 10.5 machine; install 10.5 on an external hard drive to do some testing
 - FEATURE: sticky setting for check spelling and grammar; chose it once, and it remembers on every relaunch.
 - BUG: Scrollbar drag when text is shorter than box makes it scroll.
 - BUG: minimize troublesome, fixed by blocking fadeout instead of NSTimers
