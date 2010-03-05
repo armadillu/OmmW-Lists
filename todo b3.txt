@@ -20,9 +20,9 @@
 
 - FEATURE: give error when using 10.4
 - BUG: script animations layer limbo, seems to be when i resign while animating? hard to repdroduce
-- TEST: Chinese: hebrew arabic.....
+- TEST: Chinese, hebrew, arabic.....
 - TEST: PPC
-- TEST: Weird sound card? Apogee 
+- TEST: Weird sound card? Apogee
 - BUG: parse UTF-8, macRoman, etc. make sure we suck everything in >> test on OSX 10.5? works fine on OSX 10.6
 
 ## DONE ############################################################################
