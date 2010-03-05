@@ -1,7 +1,7 @@
 ## TODO ############################################################################
   
 - BUG: sometimes (very seldom) you can hear a sound type sound when launching the app. Dunno why!
-- 10.5 BUG: some controller buttons dont show up sometimes! grrrr
+- 10.5 only BUG: some controller buttons dont show up sometimes! grrrr
 
 ## HALF DONE #######################################################################
 
