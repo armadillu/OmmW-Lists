@@ -13,6 +13,8 @@
 
 ## NOT POSSIBLE ####################################################################
 
+- Box handle-squares randomly clipped on Mac OS X 10.5
+- CharAnimationLayer (script font) background not transparent on Mac OS X 10.5
 - try soft edges on bottom and top of text box >> too much work not worth it
 - Smaller memory usage, 104+ mb for a text editor is too much! >> might be the music loops? First beta used 109+ mb!
 
@@ -27,6 +29,7 @@
 
 ## DONE ############################################################################
 
+- BUG: Scrollbar drag when text is shorter than box makes it scroll.
 - BUG: minimize troublesome, fixed by blocking fadeout instead of NSTimers
 - Prepare dialogs to get them spellchecked and proofed
 - BUG: OmmWriter deactivates and activates (fades out and fades in) around 5 seconds after saving a file. >> was my internet-safe applescript on desktop, doh!
