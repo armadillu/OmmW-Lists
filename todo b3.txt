@@ -29,7 +29,7 @@
 
 ## DONE ############################################################################
 
-- FEATURE: sticky setting for check spelling and grammar, chose it once, and it remembers every time.
+- FEATURE: sticky setting for check spelling and grammar; chose it once, and it remembers on every relaunch.
 - BUG: Scrollbar drag when text is shorter than box makes it scroll.
 - BUG: minimize troublesome, fixed by blocking fadeout instead of NSTimers
 - Prepare dialogs to get them spellchecked and proofed
