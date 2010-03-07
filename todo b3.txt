@@ -1,7 +1,6 @@
-## TODO ############################################################################
+## TO DO ###########################################################################
   
-- BUG: sometimes (very seldom) you can hear a sound type sound when launching the app. Dunno why!
-- 10.5 only BUG: some controller buttons dont show up sometimes! grrrr
+- BUG: sometimes (very seldom) you can hear a keytype sound when launching the app. Dunno why!
 
 ## HALF DONE #######################################################################
 
@@ -29,6 +28,7 @@
 
 ## DONE ############################################################################
 
+- 10.5 only BUG: some controller buttons dont show up sometimes! grrrr
 - FEATURE: dont overwrite backup file if current file is empty
 - FEATURE: detect OS version and enable / disable certain features (compatibilityMode)
 - BUG: file extensions for PDF and rtf are added every time (and u end up with a file named file.pdf.pdf.pdf...)
