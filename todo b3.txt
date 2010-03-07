@@ -29,6 +29,7 @@
 
 ## DONE ############################################################################
 
+- FEATURE: dont overwrite backup file if current file is empty
 - FEATURE: detect OS version and enable / disable certain features (compatibilityMode)
 - BUG: file extensions for PDF and rtf are added every time (and u end up with a file named file.pdf.pdf.pdf...)
 - BUG: replace would always save as .omm (even if user asked for rtf or pdf)
