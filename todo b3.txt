@@ -28,7 +28,7 @@
 
 ## DONE ############################################################################
 
-- BUG: re-expor ticon as it had non-smooth edges
+- BUG: re-export icon as it had non-smooth edges
 - 10.5 only BUG: some controller buttons dont show up sometimes! grrrr
 - FEATURE: dont overwrite backup file if current file is empty
 - FEATURE: detect OS version and enable / disable certain features (compatibilityMode)
