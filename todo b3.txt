@@ -1,6 +1,8 @@
 ## TO DO ###########################################################################
   
 - BUG: sometimes (very seldom) you can hear a keytype sound when launching the app. Dunno why!
+- Chromotherapy
+- background messages / quotes
 
 ## HALF DONE #######################################################################
 
