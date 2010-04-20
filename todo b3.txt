@@ -2,10 +2,9 @@
   
 - BUG: sometimes (very seldom) you can hear a keytype sound when launching the app. Dunno why!
 - Chromotherapy create animations
-- Chromotherapy deal with transitions from and to
 - Background with overlaid pngs!
 - background messages / quotes
-- bacground adapt to all screen sizes + crop if its a weird size
+- background adapt to all screen sizes + crop if its a weird size
 - new musics?
 - two versions paid & free!
 - new animations
@@ -36,6 +35,8 @@
 
 ## DONE ############################################################################
 
+- Add 8th background button
+- Chromotherapy deal with transitions from and to
 - BUG: re-export icon as it had non-smooth edges
 - 10.5 only BUG: some controller buttons dont show up sometimes! grrrr
 - FEATURE: dont overwrite backup file if current file is empty
