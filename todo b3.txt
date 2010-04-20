@@ -1,8 +1,15 @@
 ## TO DO ###########################################################################
   
 - BUG: sometimes (very seldom) you can hear a keytype sound when launching the app. Dunno why!
-- Chromotherapy
+- Chromotherapy create animations
+- Chromotherapy deal with transitions from and to
+- Background with overlaid pngs!
 - background messages / quotes
+- bacground adapt to all screen sizes + crop if its a weird size
+- new musics?
+- two versions paid & free!
+- new animations
+- create new animation creation tool for new script font
 
 ## HALF DONE #######################################################################
 
@@ -22,7 +29,6 @@
 ## TO QA ###########################################################################
 
 - FEATURE: give error when using 10.4
-- BUG: script animations layer limbo, seems to be when i resign while animating? hard to repdroduce
 - TEST: Chinese, hebrew, arabic.....
 - TEST: PPC
 - TEST: Weird sound card? Apogee
