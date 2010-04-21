@@ -7,8 +7,7 @@
 - background adapt to all screen sizes + crop if its a weird size
 - new musics?
 - two versions paid & free!
-- new animations
-- create new animation creation tool for new script font
+- new font animations
 
 ## HALF DONE #######################################################################
 
@@ -35,6 +34,7 @@
 
 ## DONE ############################################################################
 
+- create new animation creation tool for new script font
 - Add 8th background button
 - Chromotherapy deal with transitions from and to
 - BUG: re-export icon as it had non-smooth edges
