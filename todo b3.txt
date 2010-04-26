@@ -5,7 +5,7 @@
 - Background with overlaid pngs!
 - background messages / quotes
 - background adapt to all screen sizes + crop if its a weird size
-- new musics?
+- new musics + sound effects?
 - two versions paid & free!
 - new font animations
 
