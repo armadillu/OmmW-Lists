@@ -8,6 +8,7 @@
 - new musics + sound effects?
 - two versions paid & free!
 - new font animations
+- hansi bug report, select all while text is being typed, stuck animation!
 
 ## HALF DONE #######################################################################
 
