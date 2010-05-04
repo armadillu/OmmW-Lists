@@ -8,7 +8,8 @@
 - new musics + sound effects?
 - two versions paid & free!
 - new font animations
-- hansi bug report, select all while text is being typed, stuck animation!
+- hansi bug report, select all and delete while text is being typed, stuck animation!
+- 20, 22 and 24 animated font
 
 ## HALF DONE #######################################################################
 
@@ -35,6 +36,7 @@
 
 ## DONE ############################################################################
 
+- Changed script font to Cygnet Round
 - create new animation creation tool for new script font
 - Add 8th background button
 - Chromotherapy deal with transitions from and to
