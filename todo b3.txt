@@ -35,7 +35,8 @@
 - BUG: parse UTF-8, macRoman, etc. make sure we suck everything in >> test on OSX 10.5? works fine on OSX 10.6
 
 ## DONE ############################################################################
-
+- Create plists for new script font animation
+- Compress script font animation pngs to reduce download space
 - Changed script font to Cygnet Round
 - create new animation creation tool for new script font
 - Add 8th background button
