@@ -8,7 +8,6 @@
 - new musics + sound effects?
 - two versions paid & free!
 - new font animations
-- hansi bug report, select all and delete while text is being typed, stuck animation!
 - 20, 22 and 24 animated font
 
 ## HALF DONE #######################################################################
@@ -35,6 +34,8 @@
 - BUG: parse UTF-8, macRoman, etc. make sure we suck everything in >> test on OSX 10.5? works fine on OSX 10.6
 
 ## DONE ############################################################################
+
+- hansi bug report, select all and delete while text is being typed, stuck animation!
 - Create plists for new script font animation
 - Compress script font animation pngs to reduce download space
 - Changed script font to Cygnet Round
