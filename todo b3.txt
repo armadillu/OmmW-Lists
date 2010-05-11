@@ -12,6 +12,7 @@
 ## HALF DONE #######################################################################
 
 - save animation should match the one that happens when pressing button (button not jumping, but fading color instead)
+- fixed cygnet round accent bug 
 
 ## NOT SURE ########################################################################
 
