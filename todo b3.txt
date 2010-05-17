@@ -1,9 +1,6 @@
 ## TO DO ###########################################################################
   
-- BUG: sometimes (very seldom) you can hear a keytype sound when launching the app. Dunno why!
-- Chromotherapy create animations
-- Background with overlaid pngs!
-- background messages / quotes
+- BUG: sometimes (very seldom) you can hear a keytype sound when launching the app. Dunno why!- background messages / quotes
 - background adapt to all screen sizes + crop if its a weird size
 - new musics + sound effects?
 - two versions paid & free!
@@ -35,6 +32,8 @@
 
 ## DONE ############################################################################
 
+- Chromotherapy create animations
+- Background with overlaid pngs!
 - 20, 22 and 24 animated Cygnet Round font
 - hansi bug report, select all and delete while text is being typed, stuck animation!
 - Create plists for new script font animation
