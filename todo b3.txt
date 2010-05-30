@@ -29,6 +29,7 @@
 
 ## DONE ############################################################################
 
+- balance sound effects volume when typing
 - new musics + sound effects?
 - two versions paid & free!
 - Serial Number generator port to PHP
