@@ -31,7 +31,7 @@
 
 - balance sound effects volume when typing
 - new musics + sound effects?
-- two versions paid & free!
+- two versions paid & free! automate generation, split code depending on final Xcode build target
 - Serial Number generator port to PHP
 - Chromotherapy create animations
 - Background with overlaid pngs!
