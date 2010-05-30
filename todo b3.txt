@@ -2,9 +2,6 @@
   
 - BUG: sometimes (very seldom) you can hear a keytype sound when launching the app. Dunno why!- background messages / quotes
 - background adapt to all screen sizes + crop if its a weird size
-- new musics + sound effects?
-- two versions paid & free!
-- Serial Number generator port to PHP
 
 ## HALF DONE #######################################################################
 
@@ -31,6 +28,10 @@
 - BUG: parse UTF-8, macRoman, etc. make sure we suck everything in >> test on OSX 10.5? works fine on OSX 10.6
 
 ## DONE ############################################################################
+
+- new musics + sound effects?
+- two versions paid & free!
+- Serial Number generator port to PHP
 - Chromotherapy create animations
 - Background with overlaid pngs!
 - 20, 22 and 24 animated Cygnet Round font
