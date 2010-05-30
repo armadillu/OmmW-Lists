@@ -6,7 +6,6 @@
 ## HALF DONE #######################################################################
 
 - save animation should match the one that happens when pressing button (button not jumping, but fading color instead)
-- fixed cygnet round accent bug 
 
 ## NOT SURE ########################################################################
 
@@ -29,12 +28,14 @@
 
 ## DONE ############################################################################
 
+- fixed cygnet round font accent bug 
 - balance sound effects volume when typing
 - new musics + sound effects?
 - two versions paid & free! automate generation, split code depending on final Xcode build target
 - Serial Number generator port to PHP
 - Chromotherapy create animations
 - Background with overlaid pngs!
+- encode tracks with different compression bitrates and output test quality
 - 20, 22 and 24 animated Cygnet Round font
 - hansi bug report, select all and delete while text is being typed, stuck animation!
 - Create plists for new script font animation
