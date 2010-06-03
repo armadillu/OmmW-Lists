@@ -29,6 +29,7 @@
 
 ## DONE ############################################################################
 
+- save in prefs if user enabled or disabled smart quotes
 - license entry fields will now trim '\n' characters when pasted to avoid confusion (mostly when pasting from an email)
 - better onscreen feedback when entering registration code i paid version
 - show scrollbar when user uses mouse scrollwheel to scroll
