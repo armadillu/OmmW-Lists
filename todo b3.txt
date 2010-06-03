@@ -28,6 +28,7 @@
 
 ## DONE ############################################################################
 
+- fixed bug when exporting file (pdf rtf txt) and user decides to write the file extension him/her self
 - optimized file size of all pngs
 - fixed cygnet round font accent bug 
 - balance sound effects volume when typing
