@@ -28,6 +28,7 @@
 
 ## DONE ############################################################################
 
+- better onscreen feedback when entering registration code i paid version
 - show scrollbar when user uses mouse scrollwheel to scroll
 - fixed bug when exporting file (pdf rtf txt) and user decides to write the file extension him/her self
 - optimized file size of all pngs
