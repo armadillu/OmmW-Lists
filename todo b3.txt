@@ -28,6 +28,7 @@
 
 ## DONE ############################################################################
 
+- license entry fields will now trim '\n' characters when pasted to avoid confusion (mostly when pasting from an email)
 - better onscreen feedback when entering registration code i paid version
 - show scrollbar when user uses mouse scrollwheel to scroll
 - fixed bug when exporting file (pdf rtf txt) and user decides to write the file extension him/her self
