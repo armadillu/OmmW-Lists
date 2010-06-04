@@ -29,6 +29,7 @@
 
 ## DONE ############################################################################
 
+- Reduced memory usage to about one third by not pre-loading sounds files
 - Using free version after using registered version results in lost license and need to re-entry all data
 - make sure the UI is brought back if using any of the menu items if OmmWriter is minimized
 - save in prefs if user enabled or disabled smart quotes
