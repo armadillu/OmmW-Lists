@@ -29,7 +29,9 @@
 
 ## DONE ############################################################################
 
-- Reduced memory usage to about one third by not pre-loading sounds files
+- Canvas-texture like background should be centered and not scaled to fit, or we lose detail.
+- Reduced memory usage to about one third by not pre-loading sound files
+- Relase background images when switching background, ends up in considerable memory use reduction
 - Using free version after using registered version results in lost license and need to re-entry all data
 - make sure the UI is brought back if using any of the menu items if OmmWriter is minimized
 - save in prefs if user enabled or disabled smart quotes
