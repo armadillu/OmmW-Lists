@@ -29,6 +29,8 @@
 
 ## DONE ############################################################################
 
+
+- strip down Chromotherapy background drawing to the minimum
 - Canvas-texture like background should be centered and not scaled to fit, or we lose detail.
 - Reduced memory usage to about one third by not pre-loading sound files
 - Relase background images when switching background, ends up in considerable memory use reduction
