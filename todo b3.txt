@@ -29,6 +29,7 @@
 
 ## DONE ############################################################################
 
+- FEATURE: Add mutex lock in WriteBackup to file method and insertText method (so we block backup to file while user types)
 - now storing the last 9 previous backup files, so user can reach them through the finder in ~/Library/OmmWriter, backup0 is always freshest.
 - background messages / quotes / sentences on BG #4
 - BUG: show license entry window on paid version if no valid license is found at launch time
