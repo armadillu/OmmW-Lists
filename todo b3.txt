@@ -29,6 +29,7 @@
 
 ## DONE ############################################################################
 
+- now storing the last 9 previous backup files, so user can reach them through the finder in ~/Library/OmmWriter, backup0 is always freshest.
 - background messages / quotes / sentences
 - show license entry window on paid version if no valid license is found at launch time
 - strip down Chromotherapy background drawing to the minimum
