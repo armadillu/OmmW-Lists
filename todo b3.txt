@@ -1,6 +1,6 @@
 ## TO DO ###########################################################################
   
-- BUG: sometimes (very seldom) you can hear a keytype sound when launching the app. Dunno why!- background messages / quotes
+- BUG: sometimes (very seldom) you can hear a keytype sound when launching the app. Dunno why!
 - background adapt to all screen sizes + crop if its a weird size
 - textview change font or size really slow fade in/out on large docs, cache bitmap?
 
@@ -29,6 +29,7 @@
 
 ## DONE ############################################################################
 
+- background messages / quotes / sentences
 - show license entry window on paid version if no valid license is found at launch time
 - strip down Chromotherapy background drawing to the minimum
 - Canvas-texture like background should be centered and not scaled to fit, or we lose detail.
