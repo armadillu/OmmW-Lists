@@ -30,35 +30,34 @@
 ## DONE ############################################################################
 
 - now storing the last 9 previous backup files, so user can reach them through the finder in ~/Library/OmmWriter, backup0 is always freshest.
-- background messages / quotes / sentences
-- show license entry window on paid version if no valid license is found at launch time
-- strip down Chromotherapy background drawing to the minimum
-- Canvas-texture like background should be centered and not scaled to fit, or we lose detail.
-- Reduced memory usage to about one third by not pre-loading sound files
-- Relase background images when switching background, ends up in considerable memory use reduction
-- Using free version after using registered version results in lost license and need to re-entry all data
-- make sure the UI is brought back if using any of the menu items if OmmWriter is minimized
-- save in prefs if user enabled or disabled smart quotes
-- license entry fields will now trim '\n' characters when pasted to avoid confusion (mostly when pasting from an email)
-- better onscreen feedback when entering registration code i paid version
-- show scrollbar when user uses mouse scrollwheel to scroll
-- fixed bug when exporting file (pdf rtf txt) and user decides to write the file extension him/her self
-- optimized file size of all pngs
-- fixed cygnet round font accent bug 
+- background messages / quotes / sentences on BG #4
+- BUG: show license entry window on paid version if no valid license is found at launch time
+- BUG: strip down Chromotherapy background drawing to the minimum
+- BUG: Canvas-texture like background should be centered and not scaled to fit, or we lose detail.
+- FEATURE: Reduced memory usage to about one third by not pre-loading sound files
+- FEATURE: Relase background images when switching background, ends up in considerable memory use reduction
+- BUG: Using free version after using registered version results in lost license and need to re-entry all data
+- BUG: make sure the UI is brought back if using any of the menu items if OmmWriter is minimized
+- FEATURE: save in prefs if user enabled or disabled smart quotes
+- FEATURE: license entry fields will now trim '\n' characters when pasted to avoid confusion (mostly when pasting from an email)
+- FEATURE: better onscreen feedback when entering registration code in paid version
+- BUG: show scrollbar when user uses mouse scrollwheel to scroll
+- BUG:  when exporting file (pdf rtf txt) and user decides to write the file extension him/her self
+- FEATURE: reduced file size of all pngs (UI)
+- BUG: fixed cygnet round font accent bug with romans help
 - balance sound effects volume when typing
-- new musics + sound effects?
-- two versions paid & free! automate generation, split code depending on final Xcode build target
-- Serial Number generator port to PHP
+- FEATURE: new musics + sound effects
+- FEATURE: two versions paid & free! automate generation, split code depending on final Xcode build target
+- Serial Number generator port to PHP for e-store
 - Chromotherapy create animations
-- Background with overlaid pngs!
-- encode tracks with different compression bitrates and output test quality
+- Background with overlaid pngs / sentences!
+- FEATURE: encode tracks with different compression bitrates and output test quality
 - 20, 22 and 24 animated Cygnet Round font
-- hansi bug report, select all and delete while text is being typed, stuck animation!
-- Create plists for new script font animation
+- BUG: select all and delete while text is being typed in script font, stuck animation!
+- Create animation indexes plists for new script font animation
 - Compress script font animation pngs to reduce download space
-- Changed script font to Cygnet Round
 - create new animation creation tool for new script font
-- Chromotherapy deal with transitions from and to
+- FEATURE: Chromotherapy deal with transitions from and to other (static) backgrounds
 - BUG: re-export icon as it had non-smooth edges
 - 10.5 only BUG: some controller buttons dont show up sometimes! grrrr
 - FEATURE: dont overwrite backup file if current file is empty
