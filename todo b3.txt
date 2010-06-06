@@ -56,7 +56,6 @@
 - Compress script font animation pngs to reduce download space
 - Changed script font to Cygnet Round
 - create new animation creation tool for new script font
-- Add 8th background button
 - Chromotherapy deal with transitions from and to
 - BUG: re-export icon as it had non-smooth edges
 - 10.5 only BUG: some controller buttons dont show up sometimes! grrrr
