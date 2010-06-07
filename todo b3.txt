@@ -29,7 +29,7 @@
 
 ## DONE ############################################################################
 
-- BUG: scrolling with trackpad and scrollwheel get out fof sync (due to a bug from apple on nsscrollview with no show scrollbars). Worked around it somehow.
+- BUG: scrolling with trackpad and scrollwheel get out fof sync (due to a bug from apple on nsscrollview with no show scrollba). Worked around it somehow.
 - FEATURE: Add mutex lock in WriteBackup to file method and insertText method (so we block backup to file while user is typing)
 - FEATURE: now storing the last 9 previous backup files, so user can reach them through the finder in ~/Library/OmmWriter, backup0 is always freshest.
 - background messages / quotes / sentences on BG #4
