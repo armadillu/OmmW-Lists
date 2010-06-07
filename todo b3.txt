@@ -41,6 +41,7 @@
 - BUG: make sure the UI is brought back if using any of the menu items if OmmWriter is minimized
 - FEATURE: save in prefs if user enabled or disabled smart quotes
 - FEATURE: license entry fields will now trim '\n' characters when pasted to avoid confusion (mostly when pasting from an email)
+- FEATURE: license entry window provides positive feedback by jumping when license is inputted correctly. (apart from SN turning green)
 - FEATURE: better onscreen feedback when entering registration code in paid version
 - BUG: show scrollbar when user uses mouse scrollwheel to scroll
 - BUG:  when exporting file (pdf rtf txt) and user decides to write the file extension him/her self
