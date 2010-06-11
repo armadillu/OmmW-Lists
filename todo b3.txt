@@ -29,6 +29,7 @@
 
 ## DONE ############################################################################
 
+- Make sure 2-clicking a file on a mac that also has older verions of OmmWriter alwaya launches the newest one
 - BUG: scrolling with trackpad and scrollwheel get out fof sync (due to a bug from apple on nsscrollview with no show scrollba). Worked around it somehow.
 - FEATURE: Add mutex lock in WriteBackup to file method and insertText method (so we block backup to file while user is typing)
 - FEATURE: now storing the last 9 previous backup files, so user can reach them through the finder in ~/Library/OmmWriter, backup0 is always freshest.
