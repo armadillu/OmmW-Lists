@@ -3,6 +3,8 @@
 - BUG: sometimes (very seldom) you can hear a keytype sound when launching the app. Dunno why!
 - background adapt to all screen sizes + crop if its a weird size
 - textview change font or size really slow fade in/out on large docs, cache bitmap?
+- Disable growl?
+- add find /replace panels?
 
 ## HALF DONE #######################################################################
 
