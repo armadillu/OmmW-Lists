@@ -1,10 +1,11 @@
 ## TO DO ###########################################################################
-  
+
 - BUG: sometimes (very seldom) you can hear a keytype sound when launching the app. Dunno why!
 - background adapt to all screen sizes + crop if its a weird size
 - textview change font or size really slow fade in/out on large docs, cache bitmap?
 - Disable growl?
-- add find / replace panels?
+- When finding words, show scrollBar to know where we are! 
+- Get better originals for background Images, try jpeg 2000? see if its to slow to load on the fly
 
 ## HALF DONE #######################################################################
 
@@ -31,6 +32,8 @@
 
 ## DONE ############################################################################
 
+- For Growl users; turn notifications off when starting OmmWriter, turn them On (if growl was runing) when quitting
+- add find / replace panels
 - Make sure 2-clicking a file on a mac that also has older verions of OmmWriter alwaya launches the newest one
 - BUG: scrolling with trackpad and scrollwheel get out fof sync (due to a bug from apple on nsscrollview with no show scrollba). Worked around it somehow.
 - FEATURE: Add mutex lock in WriteBackup to file method and insertText method (so we block backup to file while user is typing)
