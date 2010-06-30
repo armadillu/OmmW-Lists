@@ -3,7 +3,6 @@
 - BUG: sometimes (very seldom) you can hear a keytype sound when launching the app. Dunno why!
 - background adapt to all screen sizes + crop if its a weird size
 - textview change font or size really slow fade in/out on large docs, cache bitmap?
-- Disable growl?
 - When finding words, show scrollBar to know where we are! 
 - Get better originals for background Images, try jpeg 2000? see if its to slow to load on the fly
 
@@ -32,6 +31,7 @@
 
 ## DONE ############################################################################
 
+- Move CAGLLayer projection setup from init to draw, marzbans computer wasnt doing init at the right time
 - For Growl users; turn notifications off when starting OmmWriter, turn them On (if growl was runing) when quitting
 - add find / replace panels
 - Make sure 2-clicking a file on a mac that also has older verions of OmmWriter alwaya launches the newest one
