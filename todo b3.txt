@@ -31,6 +31,7 @@
 
 ## DONE ############################################################################
 
+- BUG: going back and forth between free and paid could cause a crash of the free version at at startu when trying to load a non existant bg
 - FEATURE: show apropiate splash image for free and paid version
 - BUG: when fading sound back in, use plist specified volume for that sound file, not 1.0 volume.
 - BUG: After QA: setting volume for fade in-out might be causing threading issues (and crashes!) (NSSound not thread safe)
