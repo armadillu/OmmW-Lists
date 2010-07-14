@@ -31,6 +31,7 @@
 
 ## DONE ############################################################################
 
+- FEATURE: show apropiate splash image for free and paid version
 - BUG: when fading sound back in, use plist specified volume for that sound file, not 1.0 volume.
 - BUG: After QA: setting volume for fade in-out might be causing threading issues (and crashes!) (NSSound not thread safe)
 - Feature: FadeOut everything cant be run threaded on exit cos main thread is sleeping so we cant perform volume: selector on main thread
