@@ -31,6 +31,7 @@
 
 ## DONE ############################################################################
 
+- BUG: Fixed spaces bug on 10.5 where OmmWriter would force spaces to bounce back to it when trying to move to another space 
 - BUG: on 10.5 the tools box would get on top of the scroll bar? (fabrica imac)
 - BUG: going back and forth between free and paid could cause a crash of the free version at at startu when trying to load a non existant bg
 - FEATURE: show apropiate splash image for free and paid version
