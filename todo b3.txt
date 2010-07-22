@@ -4,7 +4,6 @@
 - background adapt to all screen sizes + crop if its a weird size
 - textview change font or size really slow fade in/out on large docs, cache bitmap?
 - When finding words, show scrollBar to know where we are! 
-- Get better originals for background Images, try jpeg 2000? see if its to slow to load on the fly
 
 ## HALF DONE #######################################################################
 
@@ -32,6 +31,7 @@
 ## DONE ############################################################################
 
 - COSMETIC BUG: Snow landscape looks pretty bad in "inverted" (ctrl+alt+apple+9) mode, re-generate from original
+- ENHANCMENT: Get better originals for background Images, try jpeg 2000? see if its to slow to load on the fly
 - BUG: dropped magic numbers from long long to float as in php
 - BUG: Fixed spaces bug on 10.5 where OmmWriter would force spaces to bounce back to it when trying to move to another space 
 - BUG: on 10.5 the tools box would get on top of the scroll bar? (fabrica imac)
