@@ -30,6 +30,8 @@
 
 ## DONE ############################################################################
 
+- FEATURE: Growl is now started and stopped by using growlctl (no more crappy applescript)
+- FEATURE: For Growl users; turn notifications off when starting OmmWriter, turn them On (if growl was runing) when quitting
 - FEATURE: Binary is now aware of its own build date
 - COSMETIC BUG: Snow landscape looks pretty bad in "inverted" (ctrl+alt+apple+8) mode, re-generate from original
 - ENHANCMENT: Get better originals for background Images, try jpeg 2000? see if its to slow to load on the fly
@@ -44,7 +46,6 @@
 - BUG: fixed music "clicking" bug just after splash window fades out
 - BUG: After QA, fixed spaces bug (yet again) where OmmWriter would not jump into the user specified space before fading in 
 - BUG: Move CAGLLayer projection setup from init to draw, marzbans computer wasnt doing init at the right time
-- FEATURE: For Growl users; turn notifications off when starting OmmWriter, turn them On (if growl was runing) when quitting
 - FEATURE: Add find / replace panels
 - BUG: Make sure 2-clicking a file on a mac that also has older verions of OmmWriter alwaya launches the newest one
 - BUG: scrolling with trackpad and scrollwheel get out fof sync (due to a bug from apple on nsscrollview with no show scrollba). Worked around it somehow.
