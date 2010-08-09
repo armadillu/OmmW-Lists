@@ -30,6 +30,7 @@
 
 ## DONE ############################################################################
 
+- FEATURE: Binary is now aware of its own build date
 - COSMETIC BUG: Snow landscape looks pretty bad in "inverted" (ctrl+alt+apple+8) mode, re-generate from original
 - ENHANCMENT: Get better originals for background Images, try jpeg 2000? see if its to slow to load on the fly
 - BUG: dropped magic numbers from long long to float as in php
