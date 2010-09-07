@@ -30,7 +30,7 @@
 
 ## DONE ############################################################################
 
-_ BUG: changed pref_string for "textViewRect" to "textViewRect_Dana" to avoid intereference with previous OmmWriter Versions
+- BUG: changed pref_string for "textViewRect" to "textViewRect_Dana" to avoid intereference with previous OmmWriter Versions
 - FEATURE: Code and test php side of the licensing
 - FEATURE: Growl is now started and stopped by using growlctl (no more crappy applescript)
 - FEATURE: For Growl users; turn notifications off when starting OmmWriter, turn them On (if growl was runing) when quitting
