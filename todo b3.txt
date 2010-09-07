@@ -30,6 +30,7 @@
 
 ## DONE ############################################################################
 
+- FEATURE: Code and test php side of the licensing
 - FEATURE: Growl is now started and stopped by using growlctl (no more crappy applescript)
 - FEATURE: For Growl users; turn notifications off when starting OmmWriter, turn them On (if growl was runing) when quitting
 - FEATURE: Binary is now aware of its own build date
