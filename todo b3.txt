@@ -4,6 +4,7 @@
 - background adapt to all screen sizes + crop if its a weird size
 - textview change font or size really slow fade in/out on large docs, cache bitmap?
 - When finding words, show scrollBar to know where we are! 
+- When opening file, focus in textbox is lost!
 
 ## HALF DONE #######################################################################
 
